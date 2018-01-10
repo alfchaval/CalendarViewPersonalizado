@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="22"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="1220017035700"
+    token="4250955646213441348"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="968" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="170" />
+    <task
+        name="verifier"
+        duration="7" />
+
+    <artifact
+        location="/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/CalendarView-Personalizado/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="1220017035700"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/CalendarView-Personalizado/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

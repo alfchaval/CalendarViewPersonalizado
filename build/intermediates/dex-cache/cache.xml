@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/CalendarView-Personalizado/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f6d3046a321db7b872bf66420e0df018810703f1">
+        <dex dex="/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/CalendarView-Personalizado/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8797d3431466a7c63011be89b8c03180f08df7bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/CalendarView-Personalizado/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6224233555370908d847337e91c88a15ea104372">
+        <dex dex="/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/CalendarView-Personalizado/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1fdb312b68e80475063dea8b32d7b40b8fc11219/classes.dex" />
+    </item>
+
+</items>
